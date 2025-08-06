@@ -5,6 +5,13 @@
 
 Este projeto foi desenvolvido com finalidade avaliativa no âmbito do Processo Seletivo n.º 40 – CATE/RS – Defensoria Pública, tendo como propósito aplicar as diretrizes da Resolução nº 07/2018 do Conselho Superior da Defensoria Pública para aferir a hipossuficiência econômica de assistidos(as). O objetivo é verificar se a pessoa se enquadra nos critérios para obtenção de atendimento jurídico gratuito pela Defensoria Pública.
 
+Para testar e executar o projeto diretamente em um ambiente interativo, clique no botão abaixo e abra no Google Colab:
+<p>
+  <a href="https://colab.research.google.com/github/S1LV4/DPECalculadoraHipo/blob/main/calc_hipo.ipynb" target="_parent">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Abrir no Google Colab"/>
+  </a>
+</p>
+
 ---
 
 ## ⚙️ Lógica do Algoritmo
